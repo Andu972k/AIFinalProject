@@ -2,4 +2,5 @@
 !*.ipynb
 !.gitignore
 !*.pdf
+!Hand-in/
 !*.zip
